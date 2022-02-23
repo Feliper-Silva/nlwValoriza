@@ -1,14 +1,15 @@
+import 'reflect-metadata';
 import express from 'express';
+import { router } from './routes';
+
+import './database';
 
 const app = express();
 
-app.get("/", (request, response) => {
-  return response.send("olá NLW")
-})
+app.use(express.json());
 
-app.post("/send", (request, response) => {
-  return response.send('enviado')
-})
+app.use(router);
+
 app.listen(3000, () => {
-  console.log("Server iniciado na porta: 3000")
-})
+  console.log('Server iniciado na porta: 3000');
+});
