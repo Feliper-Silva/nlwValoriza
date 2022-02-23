@@ -10,7 +10,7 @@ Valoriza </h1>
 
 - Cadastro de Tags
 
-  - [ ] Não pe permitido cadastrar mais de uma tag com o mesmo nome.
+  - [ ] Não permitido cadastrar mais de uma tag com o mesmo nome.
   - [ ] Não é permitido cadastrar tag sem nome.
   - [ ] Não é permitido o cadastro por usuários que não seja administradores.
 
