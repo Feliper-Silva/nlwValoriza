@@ -1,5 +1,5 @@
 
-<h1 align="center"> :wave: Valoriza </h1>
+<h1 align="center"> 🚧 :wave: Valoriza </h1>
 
 ### :memo: Sobre
 
