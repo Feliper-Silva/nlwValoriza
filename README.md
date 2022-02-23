@@ -1,3 +1,4 @@
+
 <h1 align="center"> :wave: Valoriza </h1>
 
 ### :memo: Sobre
@@ -17,13 +18,24 @@ Valoriza é uma plataforma para promover o reconhecimento entre companheiros de 
 ### :game_die: Bando de Dados
 
 - [Sqlite](https://www.sqlite.org/index.html)
+<h1 align="center"> :construction: Api Valozira </h1>
+
+### :computer: Tecnologias:
+
+- [Node.JS](https://nodejs.org)
+
 
 ### :hammer: Ferramentas:
 
 - [VsCode](https://code.visualstudio.com/)
 - [Insomnia](https://insomnia.rest/download)
+
 - [Beekeeper Studio](https://docs.beekeeperstudio.io/)
 
 ### :page_facing_up: License
+=======
+
+### :memo: License
+
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
